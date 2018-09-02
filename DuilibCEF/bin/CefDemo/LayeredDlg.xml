@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Window size="750,472" roundcorner="4,4">
+  <!-- 窗口的初始尺寸(宽750，高472) 标题栏拖拽区域(高32)、可拖拽边框大小(这里添加sizebox后就可以拖拽边框调整大小了) -->
+
+  <VerticalLayout bkcolor="#FFFFFFFF" >
+    <!-- 整个窗口的背景色 -->
+
+  </VerticalLayout>
+</Window>

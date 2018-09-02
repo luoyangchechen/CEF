@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Window size="750,500"  caption="0,0,0,60" sizebox="0,0,0,0" roundcorner="4,4">
+  <!-- 窗口的初始尺寸(宽500，高350) 标题栏拖拽区域(高32)、可拖拽边框大小(这里添加sizebox后就可以拖拽边框调整大小了) -->
+  <Font name="微软雅黑" size="13"/>
+  <Font name="微软雅黑" size="16" />
+  <Font name="微软雅黑" size="16" bold="true"/>
+  <Font name="微软雅黑" size="13" underline="true"/>
+  <Font name="宋体" size="13" />
+  <Font name="微软雅黑" size="13" />
+
+  <VerticalLayout bkcolor="#FFFFFFFF" >
+    <!-- 整个窗口的背景色 -->
+    <!-- 标题栏区 -->
+    <HorizontalLayout name="appbar" height="28"  bkcolor="#FF13A8E0">
+      <Control width="100"/>
+      <HorizontalLayout name="apptitle" >
+        <Label text="DuiLibCefDemo        http://www.cnblogs.com/chechen/" align="center" textcolor="#FFF5F6F7"/>
+		<Button name="backbtn" text="返回"  width="60" textcolor="#FFF5F6F7" />
+		<Control width="30"/>
+      </HorizontalLayout>
+      <Button name="minbtn" padding="4,0,0,0" width="24" height="24" tooltip="最小化" normalimage="file='sysbtn/Min.png'" hotimage="file='sysbtn/Min_hot.png'"/>
+      <Button name="maxbtn" padding="4,0,0,0" width="24" height="24" tooltip="最大化" normalimage="file='sysbtn/Max.png'" hotimage="file='sysbtn/Max_hot.png'"/>
+      <Button name="restorebtn" padding="4,0,0,0" width="24" height="24" tooltip="还原" visible="false" normalimage="file='sysbtn/Restore.png'" hotimage="file='sysbtn/Restore_hot.png'"/>
+      <Button name="closebtn" padding="4,0,0,0" width="24" height="24" tooltip="关闭" normalimage="file='sysbtn/Close.png'" hotimage="file='sysbtn/Close_hot.png'"/>
+    </HorizontalLayout>
+
+    <HorizontalLayout bkcolor="#FFFFFFFF" bordersize="1" bordercolor="#FFE5DED8">
+
+      <Browser name="" />
+
+    </HorizontalLayout>
+
+
+  </VerticalLayout>
+</Window>
