@@ -1,0 +1,588 @@
+[0826/234044.907:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0826/234046.163:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+[0826/234104.714:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0826/234108.502:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+[0826/234115.422:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0826/234135.846:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0826/234308.376:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0826/234426.681:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 1
+[0826/234426.683:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 7
+[0826/234426.683:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 3
+[0826/234426.683:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 1
+[0826/234426.686:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 5
+[0826/234426.689:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 9
+[0826/234426.698:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 1
+[0826/234426.698:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 3
+[0826/235137.242:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0826/235320.931:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0827/000022.548:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0827/000111.718:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0827/000437.594:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0827/000449.187:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0827/000500.808:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 13
+[0827/000500.815:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 15
+[0827/000500.824:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 17
+[0827/000500.825:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 19
+[0827/000500.827:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 21
+[0827/000508.097:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0827/000509.001:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[05803B30:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0827/000509.001:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0A6303D0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0827/000509.229:WARNING:stunport.cc(384)] Jingle:Port[17BE1908:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0827/000509.324:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0827/000513.087:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0827/000513.087:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0827/000513.087:WARNING:stunport.cc(384)] Jingle:Port[17BE1660:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0827/000513.088:WARNING:stunport.cc(384)] Jingle:Port[17BE13B8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0827/000525.885:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/000544.424:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0827/000544.424:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0827/000617.177:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/000923.662:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0827/000929.805:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0827/000936.309:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0827/000936.309:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0827/000947.439:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0827/000947.439:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0827/001012.285:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/001015.013:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0827/001015.013:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0827/001032.264:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1472
+[0827/001032.264:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 628
+[0827/001032.264:ERROR:gpu_video_decode_accelerator.cc(376)] HW video decode not available for profile h264 high
+[0827/001034.138:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/001043.115:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/001045.640:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0827/001045.640:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0827/001107.170:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0827/001118.930:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0827/001132.211:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0827/001132.384:WARNING:stunport.cc(384)] Jingle:Port[09177240:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0827/001132.386:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0827/001132.415:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[091BAAE8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0827/001132.415:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[091BAD50:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0827/001136.051:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0827/001136.051:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0827/001136.051:WARNING:stunport.cc(384)] Jingle:Port[09176F98:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0827/001136.051:WARNING:stunport.cc(384)] Jingle:Port[09177A38:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0827/001151.099:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/001226.243:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/001243.061:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/215318.655:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0827/215635.317:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0827/215732.747:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223254.859:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0827/223343.062:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.092:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=1
+[0827/223343.092:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.112:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=2
+[0827/223343.112:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.133:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=3
+[0827/223343.133:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.163:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=4
+[0827/223343.163:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.183:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=5
+[0827/223343.184:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.204:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=6
+[0827/223343.204:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.224:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=7
+[0827/223343.224:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.255:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=8
+[0827/223343.255:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.275:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=9
+[0827/223343.275:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.295:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=10
+[0827/223343.295:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.326:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=11
+[0827/223343.326:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.346:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=12
+[0827/223343.346:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.366:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=13
+[0827/223343.366:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.387:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=14
+[0827/223343.387:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.417:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=15
+[0827/223343.417:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.437:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=16
+[0827/223343.438:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.458:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=17
+[0827/223343.458:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.488:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=18
+[0827/223343.488:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.509:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=19
+[0827/223343.509:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.529:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=20
+[0827/223343.529:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.549:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=21
+[0827/223343.549:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.580:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=22
+[0827/223343.580:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.600:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=23
+[0827/223343.600:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.620:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=24
+[0827/223343.620:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.651:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=25
+[0827/223343.651:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.671:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=26
+[0827/223343.671:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.691:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=27
+[0827/223343.692:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.712:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=28
+[0827/223343.712:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.742:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=29
+[0827/223343.742:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.763:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=30
+[0827/223343.763:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.783:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=31
+[0827/223343.783:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.813:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=32
+[0827/223343.813:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.834:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=33
+[0827/223343.834:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.854:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=34
+[0827/223343.854:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.874:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=35
+[0827/223343.874:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.905:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=36
+[0827/223343.905:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.925:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=37
+[0827/223343.925:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.945:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=38
+[0827/223343.946:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.976:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=39
+[0827/223343.976:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223343.996:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=40
+[0827/223343.996:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.016:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=41
+[0827/223344.017:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.037:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=42
+[0827/223344.037:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.067:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=43
+[0827/223344.067:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.088:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=44
+[0827/223344.088:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.108:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=45
+[0827/223344.108:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.138:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=46
+[0827/223344.138:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.159:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=47
+[0827/223344.159:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.179:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=48
+[0827/223344.179:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.199:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=49
+[0827/223344.199:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.230:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=50
+[0827/223344.230:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.250:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=51
+[0827/223344.250:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.271:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=52
+[0827/223344.271:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.301:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=53
+[0827/223344.301:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.321:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=54
+[0827/223344.321:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.342:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=55
+[0827/223344.342:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.362:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=56
+[0827/223344.362:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.392:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=57
+[0827/223344.392:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.413:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=58
+[0827/223344.413:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.433:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=59
+[0827/223344.433:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.463:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=60
+[0827/223344.464:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.484:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=61
+[0827/223344.484:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.504:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=62
+[0827/223344.504:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.524:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=63
+[0827/223344.525:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.555:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=64
+[0827/223344.555:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.575:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=65
+[0827/223344.575:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.596:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=66
+[0827/223344.596:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.626:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=67
+[0827/223344.626:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.646:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=68
+[0827/223344.646:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.667:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=69
+[0827/223344.667:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.687:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=70
+[0827/223344.687:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.717:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=71
+[0827/223344.718:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.738:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=72
+[0827/223344.738:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.758:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=73
+[0827/223344.758:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.789:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=74
+[0827/223344.789:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.809:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=75
+[0827/223344.809:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.829:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=76
+[0827/223344.829:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.850:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=77
+[0827/223344.850:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.880:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=78
+[0827/223344.880:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.900:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=79
+[0827/223344.900:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.921:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=80
+[0827/223344.921:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.951:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=81
+[0827/223344.951:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/223344.966:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0827/224645.397:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0827/224649.969:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0827/224650.767:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B2B25C8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0827/224650.797:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B2B14F0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0827/224651.065:WARNING:stunport.cc(384)] Jingle:Port[13095F00:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0827/224651.127:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0827/224654.331:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0827/224654.331:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0827/224654.332:WARNING:stunport.cc(384)] Jingle:Port[130961A8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0827/224654.332:WARNING:stunport.cc(384)] Jingle:Port[13096450:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0827/224730.823:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:49327 (any)
+[0829/205642.742:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0829/205710.271:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0829/205714.519:ERROR:interface_registry.cc(209)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by:  exposed by:  via InterfaceProviderSpec "navigation:frame".
+[0829/205714.694:ERROR:interface_registry.cc(209)] Failed to locate a binder for interface: blink::mojom::SensitiveInputVisibilityService requested by:  exposed by:  via InterfaceProviderSpec "navigation:frame".
+[0829/205715.932:ERROR:render_media_log.cc(30)] MediaEvent: MEDIA_ERROR_LOG_ENTRY {"error":"FFmpegDemuxer: open context failed"}
+[0829/205715.939:ERROR:render_media_log.cc(30)] MediaEvent: PIPELINE_ERROR DEMUXER_ERROR_COULD_NOT_OPEN
+[0829/205746.686:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=1
+[0829/205759.058:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0829/210957.589:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0829/211917.763:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0829/224039.779:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0829/230230.644:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0829/232447.894:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0829/232740.088:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0829/232829.957:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0829/232848.915:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 1
+[0829/232848.922:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 5
+[0829/232859.119:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0829/232900.993:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[1699E4C0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0829/232900.993:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B3A8F18:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0829/232904.605:WARNING:stunport.cc(384)] Jingle:Port[05809058:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0829/232905.167:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0829/232911.430:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0829/232911.430:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0829/232911.431:WARNING:stunport.cc(384)] Jingle:Port[0B419D90:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0829/232911.431:WARNING:stunport.cc(384)] Jingle:Port[16BF51A8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0829/232925.857:WARNING:stunport.cc(384)] Jingle:Port[0B57FCD0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0829/232925.858:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0829/232925.957:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[059FFC80:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0829/232925.957:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[1DCD9A40:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0829/232929.225:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0829/232929.225:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0829/232929.225:WARNING:stunport.cc(384)] Jingle:Port[0B5814B8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0829/232929.226:WARNING:stunport.cc(384)] Jingle:Port[0B580770:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0829/232942.527:WARNING:stunport.cc(384)] Jingle:Port[0B490460:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0829/232942.527:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0829/232942.621:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[169FCD20:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0829/232942.621:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[059FFC80:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0829/232947.686:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0829/232947.686:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0829/232947.687:WARNING:stunport.cc(384)] Jingle:Port[0B490C58:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0829/232947.687:WARNING:stunport.cc(384)] Jingle:Port[0B490708:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0829/233022.307:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:62616 (any)
+[0831/214317.916:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/214918.617:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/214939.790:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 5
+[0831/214939.798:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 3
+[0831/214951.645:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0831/214952.049:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B625320:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/214952.049:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B624718:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/214952.338:WARNING:stunport.cc(384)] Jingle:Port[059393E8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0831/214952.397:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0831/214959.127:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/214959.127:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/214959.127:WARNING:stunport.cc(384)] Jingle:Port[146B05B8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/214959.410:WARNING:stunport.cc(384)] Jingle:Port[146B0310:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/215032.094:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:59163 (any)
+[0831/215145.325:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0831/215145.326:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0831/215151.865:WARNING:stunport.cc(384)] Jingle:Port[0B64B830:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0831/215151.866:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0831/215151.955:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B625588:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/215151.955:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B624718:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/215154.283:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/215154.283:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/215154.283:WARNING:stunport.cc(384)] Jingle:Port[0B64C2D0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/215154.283:WARNING:stunport.cc(384)] Jingle:Port[0B64C578:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/215231.620:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:54689 (any)
+[0831/220625.230:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/220733.340:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/220823.408:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0831/220828.696:WARNING:stunport.cc(384)] Jingle:Port[07F65338:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0831/220908.451:ERROR:stunport.cc(88)] Binding request timed out from 0.0.0.x:61232 (any)
+[0831/225218.057:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/225401.678:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/225416.870:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0831/225731.626:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/225903.785:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/225910.899:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/225919.752:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0831/225955.855:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/230002.007:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/230013.603:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0831/230041.757:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/230051.785:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/230051.785:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from C:\Windows\SysWOW64\Macromed\Flash\pepflashplayer32_30_0_0_154.dll (error: 5)
+[0831/230213.420:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/230219.217:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/230335.250:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/230341.571:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/230341.571:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0831/230414.280:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/230420.155:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/230420.157:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0831/230449.244:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/230455.502:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/230522.227:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/230533.009:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/230533.011:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0831/230923.537:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/230949.390:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/232821.765:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/233602.360:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/235427.248:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/235517.934:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/235637.947:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/235638.025:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0831/235645.688:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0831/235651.363:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B237BE0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/235651.363:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B23ADE8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/235652.143:WARNING:stunport.cc(384)] Jingle:Port[14598450:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0831/235652.404:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0831/235655.851:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/235655.851:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/235655.851:WARNING:stunport.cc(384)] Jingle:Port[14598EF0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/235655.852:WARNING:stunport.cc(384)] Jingle:Port[145986F8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/235706.813:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 1
+[0831/235728.976:WARNING:stunport.cc(384)] Jingle:Port[0599AA58:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0831/235728.977:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0831/235732.810:WARNING:stunport.cc(384)] Jingle:Port[1435D1B8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0831/235732.810:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0831/235732.915:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[05930538:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/235732.915:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[059EFD78:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/235736.538:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/235736.538:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/235736.538:WARNING:stunport.cc(384)] Jingle:Port[1435CF10:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/235736.538:WARNING:stunport.cc(384)] Jingle:Port[1435D9B0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/235750.491:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/235756.800:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/235810.296:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0831/235907.458:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0831/235914.362:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0831/235919.614:WARNING:stunport.cc(384)] Jingle:Port[1844E198:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0831/235919.615:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0831/235919.711:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[026FC258:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/235919.711:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[026FBB20:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0831/235924.327:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/235924.327:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0831/235924.327:WARNING:stunport.cc(384)] Jingle:Port[0B0AC1B8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/235924.327:WARNING:stunport.cc(384)] Jingle:Port[0B0AB470:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0831/235956.514:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0901/135858.463:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0901/140106.605:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0901/140114.568:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0901/140114.990:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0B1039D8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140114.991:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[165200C8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140115.929:WARNING:stunport.cc(384)] Jingle:Port[0B289100:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140116.001:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140120.575:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140120.575:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140120.575:WARNING:stunport.cc(384)] Jingle:Port[0B0A8240:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140120.575:WARNING:stunport.cc(384)] Jingle:Port[0B0A84E8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140121.408:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 9
+[0901/140126.364:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 1
+[0901/140148.147:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0901/140224.142:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0901/140229.760:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0901/140229.849:WARNING:stunport.cc(384)] Jingle:Port[0DA6CD08:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140229.850:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140229.946:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0DD19018:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140229.946:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0DD19268:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140232.154:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140232.154:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140232.154:WARNING:stunport.cc(384)] Jingle:Port[0DA6CFB0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140232.155:WARNING:stunport.cc(384)] Jingle:Port[055E1420:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140237.715:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 3
+[0901/140237.718:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 1
+[0901/140247.122:WARNING:stunport.cc(384)] Jingle:Port[0E0C4E20:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140247.122:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140247.219:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0DA1C118:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140247.219:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0DA1B9E0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140251.189:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140251.189:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140251.189:WARNING:stunport.cc(384)] Jingle:Port[1EBE9620:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140251.189:WARNING:stunport.cc(384)] Jingle:Port[1EBE98C8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140304.835:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0901/140342.225:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0901/140445.896:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0901/140452.455:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0901/140453.092:WARNING:stunport.cc(384)] Jingle:Port[05865DF8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140453.093:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140453.149:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16A8B5E0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140453.149:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16A823A0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140459.629:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140459.629:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140459.630:WARNING:stunport.cc(384)] Jingle:Port[0B806CF0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140459.631:WARNING:stunport.cc(384)] Jingle:Port[0B806F98:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140503.665:WARNING:stunport.cc(384)] Jingle:Port[0B8074E8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140503.665:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140503.752:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[1EA9FEF8:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140503.752:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[1E9A2290:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140511.467:WARNING:stunport.cc(384)] Jingle:Port[058665F0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140511.468:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140517.108:WARNING:stunport.cc(384)] Jingle:Port[1E8A7908:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140517.109:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140517.230:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16BD25D0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140517.230:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[1E799C08:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140521.099:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140521.099:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140521.099:WARNING:stunport.cc(384)] Jingle:Port[1EA48E58:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140521.099:WARNING:stunport.cc(384)] Jingle:Port[1EA49100:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140549.499:WARNING:stunport.cc(384)] Jingle:Port[16884B58:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140549.500:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140549.592:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0BAE0C30:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140549.592:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[0BAE0E98:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140552.618:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 11
+[0901/140553.088:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 19
+[0901/140553.094:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 21
+[0901/140553.095:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 23
+[0901/140553.095:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 25
+[0901/140553.099:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 27
+[0901/140553.100:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 29
+[0901/140553.100:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 31
+[0901/140553.100:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 33
+[0901/140553.100:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 37
+[0901/140553.100:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 39
+[0901/140553.100:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 41
+[0901/140553.101:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 35
+[0901/140553.101:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 43
+[0901/140553.101:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 45
+[0901/140553.101:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 47
+[0901/140553.101:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 49
+[0901/140553.101:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 61
+[0901/140553.101:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 51
+[0901/140553.101:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 55
+[0901/140553.102:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 53
+[0901/140553.102:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0901/140553.102:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0901/140553.102:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0901/140553.102:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0901/140553.102:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 59
+[0901/140553.102:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 57
+[0901/140553.102:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 63
+[0901/140553.102:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 67
+[0901/140553.102:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 69
+[0901/140553.102:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 65
+[0901/140553.103:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 71
+[0901/140555.355:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140555.355:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140605.985:WARNING:stunport.cc(384)] Jingle:Port[16BA9E78:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140605.986:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140606.050:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16609B68:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140606.050:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16609DD0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140609.741:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 3
+[0901/140609.741:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 1
+[0901/140612.146:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140612.146:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140612.146:WARNING:stunport.cc(384)] Jingle:Port[1E8A8660:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140612.147:WARNING:stunport.cc(384)] Jingle:Port[1E8A8908:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140615.413:WARNING:stunport.cc(384)] Jingle:Port[1EAEF8F8:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140615.413:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140615.512:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[1660A508:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140615.513:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[1660A038:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140637.182:WARNING:stunport.cc(384)] Jingle:Port[0BAF1470:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140637.183:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140637.293:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16576840:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140637.293:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16576D10:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140641.001:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 7
+[0901/140641.236:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0901/140641.261:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0901/140641.283:WARNING:dns_config_service_win.cc(661)] Failed to read DnsConfig.
+[0901/140641.383:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -21
+[0901/140641.383:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -21
+[0901/140641.383:WARNING:stunport.cc(384)] Jingle:Port[0BAEEA88:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140641.383:WARNING:stunport.cc(384)] Jingle:Port[0BAEED30:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140655.699:WARNING:stunport.cc(384)] Jingle:Port[16B931F0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140655.700:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140655.798:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16618C30:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140655.798:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[166195D0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140701.681:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140701.681:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140701.681:WARNING:stunport.cc(384)] Jingle:Port[1660DB68:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140701.681:WARNING:stunport.cc(384)] Jingle:Port[1660DE10:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error -1
+[0901/140704.798:WARNING:stunport.cc(384)] Jingle:Port[0BA97180:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140704.798:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140704.898:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16619F70:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140704.898:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16619AA0:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140733.045:WARNING:stunport.cc(384)] Jingle:Port[1696B948:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: StunPort: stun host lookup received error 0
+[0901/140733.045:WARNING:delay_based_bwe.cc(350)] BWE Setting start bitrate to: 300000
+[0901/140733.139:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16619AA0:data:1:0:local:Net[any:0.0.0.x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140733.140:WARNING:p2ptransportchannel.cc(528)] Jingle:Port[16619F70:data:1:0:local:Net[any:0:0:0:x:x:x:x:x/0:Unknown]]: SetOption(5, 0) failed: 0
+[0901/140738.864:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140738.864:ERROR:socket_dispatcher_host.cc(90)] Failed to resolve address for x., errorcode: -105
+[0901/140940.857:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0901/141237.154:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0901/141317.791:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+[0901/141318.977:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0901/141321.268:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 9
+[0901/141321.273:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 9
+[0901/141321.274:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 3
+[0901/141340.545:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 1472
+[0901/141340.546:ERROR:mf_helpers.cc(12)] Error in dxva_video_decode_accelerator_win.cc on line 628
+[0901/141340.550:ERROR:gpu_video_decode_accelerator.cc(376)] HW video decode not available for profile h264 high
+[0902/142939.368:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0902/143112.241:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0902/143112.258:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0902/143129.697:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0902/143143.635:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0902/143143.636:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0902/143250.672:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+[0902/143254.865:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0902/143303.371:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0902/143422.459:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0902/143422.490:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=1
+[0902/143422.490:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0902/143422.510:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=2
+[0902/143422.510:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0902/143422.530:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=3
+[0902/143422.530:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0902/143422.561:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=4
+[0902/143422.561:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0902/143422.581:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=5
+[0902/143422.581:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0902/143422.601:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=6
+[0902/143422.602:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0902/143422.622:WARNING:audio_sync_reader.cc(195)] AudioSyncReader::Read timed out, audio glitch count=7
+[0902/143422.622:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0902/143422.647:WARNING:audio_sync_reader.cc(180)] ASR: No room in socket buffer.
+[0902/143507.503:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0902/143507.504:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0902/143522.786:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0902/143534.840:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0902/143534.841:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0902/143601.499:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0902/143614.970:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0902/143614.971:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0902/143622.341:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0902/143634.781:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0902/143634.782:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0902/144339.328:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0902/144356.809:ERROR:gl_surface_egl.cc(690)] eglInitialize D3D11 failed with error EGL_NOT_INITIALIZED, trying next display type
+[0902/144418.463:ERROR:service_manager.cc(158)] Connection InterfaceProviderSpec prevented service: content_plugin from binding interface: memory_instrumentation::mojom::Coordinator exposed by: content_browser
+[0902/144418.541:ERROR:ppapi_thread.cc(333)] Failed to load Pepper module from plugins\pepflashplayer32_30_0_0_154.dll (error: 126)
+[0902/144424.367:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 5
+[0902/144424.368:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 5
+[0902/144424.388:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 7
+[0902/144424.394:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 9
+[0902/144424.446:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 7
+[0902/144428.633:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 21
+[0902/144428.643:WARNING:spdy_session.cc(2910)] Received HEADERS for invalid stream 39
